@@ -26,6 +26,8 @@ This project combines **semantic search (FAISS)** with **LLM reasoning (Google G
 
 ---
 ## 📂 Project Structure
+
+
 ├── data_product.json # Main dataset (JSON)
 ├── baby_product.csv # Additional dataset (CSV)
 ├── app.py # Main script
