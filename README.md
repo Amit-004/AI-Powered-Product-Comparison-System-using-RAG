@@ -32,7 +32,7 @@ This project combines **semantic search (FAISS)** with **LLM reasoning (Google G
 
 ├── baby_product.csv # Additional dataset (CSV)
 
-├── app.py # Main script
+├── Code.ipynb # Main script
 
 ├── README.md # Documentation
 
