@@ -76,6 +76,7 @@ https://aistudio.google.com/app/apikey
 Then update in your code:
 GEMINI_API_KEY = "YOUR_API_KEY"
 
+----
 ## How to Run
 python app.py
 
