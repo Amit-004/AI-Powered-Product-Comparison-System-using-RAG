@@ -82,7 +82,11 @@ GEMINI_API_KEY = "YOUR_API_KEY"
 
 
 ## How to Run
-python app.py
+### Jupyter Notebook
+```bash
+pip install notebook
+jupyter notebook
+
 
 ## How It Works
 Loads product datasets (JSON + CSV)
